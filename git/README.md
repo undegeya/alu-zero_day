@@ -1,1 +1,1 @@
-"Git project directory" 
+Git project directory
